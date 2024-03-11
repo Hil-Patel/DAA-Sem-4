@@ -1,12 +1,60 @@
-# DAA-Sem-4
-This GitHub repository encompasses the complete set of code for our lab work.
+# DAA-Sem-4 Lab Work
 
-EXPERIMENT-1 Study usage of GNU profiler tool and use it to analyze recursive and iterative solutions of problems- Fibonacci and Tower of Hanoi.
-EXPERIMENT-2 Do empirical comparison of following algorithms for solving searching problems. 2.1 Sequential Search 2.2 Binary Search.
-EXPERIMENT-3 Do empirical comparison of following algorithms for solving sorting problems. 3.1 Selection Sort 3.2 Insertion Sort.
-EXPERIMENT-4 Do empirical comparison of following algorithms for solving sorting problems. 4.1 Quick Sort4.2 Merge Sort.
-EXPERIMENT-5 Solve and compare the Prim's and Kruskal's algorithm, for solving the Graph problem to find minimum spanning tree.
-EXPERIMENT-6 Solve the Graph problem to find shortest path, using grecdy technique- Dijkstra's algorithm.
-EXPERIMENT-7 Solve the knapsack usingdynamic programming technique. EXPERIMENT-8 Solve the string editing problem using dynamic programming technique. 
-EXPERIMENT-9 Solve the n-queens problem using backtracking technique. EXPERIMENT-10 Solve the knapsack using backtracking technique LAB-WORK BEYOND CURRICUL.
-EXPERIMENT-11 Write a program that implements make a change using dynamic programming technique.
+This GitHub repository contains the complete set of code for the lab work conducted during the Data Analysis and Algorithms (DAA) course in Semester 4.
+
+## Experiments
+
+1. **Experiment-1:**
+   - Study the usage of the GNU profiler tool.
+   - Analyze recursive and iterative solutions for the Fibonacci and Tower of Hanoi problems.
+
+2. **Experiment-2:**
+   - Empirically compare algorithms for solving searching problems.
+   - 2.1 Sequential Search
+   - 2.2 Binary Search
+
+3. **Experiment-3:**
+   - Empirically compare algorithms for solving sorting problems.
+   - 3.1 Selection Sort
+   - 3.2 Insertion Sort
+
+4. **Experiment-4:**
+   - Empirically compare algorithms for solving sorting problems.
+   - 4.1 Quick Sort
+   - 4.2 Merge Sort
+
+5. **Experiment-5:**
+   - Solve and compare Prim's and Kruskal's algorithms for finding the minimum spanning tree in a graph.
+
+6. **Experiment-6:**
+   - Solve the Graph problem to find the shortest path using the greedy technique - Dijkstra's algorithm.
+
+7. **Experiment-7:**
+   - Solve the knapsack problem using dynamic programming technique.
+
+8. **Experiment-8:**
+   - Solve the string editing problem using dynamic programming technique.
+
+9. **Experiment-9:**
+   - Solve the n-queens problem using backtracking technique.
+
+10. **Experiment-10:**
+    - Solve the knapsack problem using backtracking technique.
+
+11. **Experiment-11:**
+    - Implement a program for making change using dynamic programming technique.
+
+## Lab Work Beyond Curriculum
+
+- Explore additional lab work beyond the curriculum.
+
+## Usage
+
+Feel free to explore each experiment folder to find the corresponding code and documentation.
+
+## Contributing
+
+If you have any improvements or corrections, please feel free to contribute by creating a pull request.
+
+Happy coding!
+
