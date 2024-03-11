@@ -44,9 +44,6 @@ This GitHub repository contains the complete set of code for the lab work conduc
 11. **Experiment-11:**
     - Implement a program for making change using dynamic programming technique.
 
-## Lab Work Beyond Curriculum
-
-- Explore additional lab work beyond the curriculum.
 
 ## Usage
 
