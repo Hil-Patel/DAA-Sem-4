@@ -39,10 +39,8 @@ This GitHub repository contains the complete set of code for the lab work conduc
    - Solve the n-queens problem using backtracking technique.
 
 10. **Experiment-10:**
-    - Solve the knapsack problem using backtracking technique.
+    - Solve the articulation problem using backtracking technique.
 
-11. **Experiment-11:**
-    - Implement a program for making change using dynamic programming technique.
 
 
 ## Usage
